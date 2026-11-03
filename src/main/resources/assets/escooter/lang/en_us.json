@@ -1,0 +1,13 @@
+{
+  "item.escooter.yellow_electric_scooter": "Yellow Electric Scooter",
+  "item.escooter.purple_electric_scooter": "Purple Electric Scooter",
+  "item.escooter.battery": "Scooter Battery",
+  "entity.escooter.electric_scooter": "Electric Scooter",
+  "itemGroup.escooter.main": "Electric Scooters",
+  "tooltip.escooter.charge": "Charge: %s%%",
+  "tooltip.escooter.hint": "Right-click a block to place it",
+  "message.escooter.charge": "Battery: %s%%",
+  "message.escooter.empty": "Battery is empty! Right-click the scooter with a battery",
+  "message.escooter.charged": "Scooter fully charged",
+  "message.escooter.full": "Battery is already full"
+}

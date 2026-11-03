@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "escooter:item/purple_electric_scooter"
+  }
+}

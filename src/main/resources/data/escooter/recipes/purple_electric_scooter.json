@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " DL",
+    "  I",
+    "WBW"
+  ],
+  "key": {
+    "D": { "item": "minecraft:purple_dye" },
+    "L": { "item": "minecraft:lever" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "W": { "item": "minecraft:black_wool" },
+    "B": { "item": "escooter:battery" }
+  },
+  "result": {
+    "item": "escooter:purple_electric_scooter",
+    "count": 1
+  }
+}

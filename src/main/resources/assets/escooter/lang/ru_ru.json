@@ -1,0 +1,13 @@
+{
+  "item.escooter.yellow_electric_scooter": "Жёлтый электросамокат",
+  "item.escooter.purple_electric_scooter": "Фиолетовый электросамокат",
+  "item.escooter.battery": "Батарея для самоката",
+  "entity.escooter.electric_scooter": "Электросамокат",
+  "itemGroup.escooter.main": "Электросамокаты",
+  "tooltip.escooter.charge": "Заряд: %s%%",
+  "tooltip.escooter.hint": "ПКМ по блоку — поставить",
+  "message.escooter.charge": "Батарея: %s%%",
+  "message.escooter.empty": "Батарея разряжена! Нажмите ПКМ по самокату с батареей в руке",
+  "message.escooter.charged": "Самокат полностью заряжен",
+  "message.escooter.full": "Батарея уже полная"
+}
