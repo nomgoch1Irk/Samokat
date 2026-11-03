@@ -53,9 +53,9 @@ public class ElectricScooterEntity extends Entity {
             SynchedEntityData.defineId(ElectricScooterEntity.class, EntityDataSerializers.INT);
 
     // Параметры езды (блоки/тик). 0.45 блока/тик = 9 блоков/сек.
-    private static final double MAX_SPEED = 0.45D;
+    private static final double MAX_SPEED = 0.8D;
     private static final double MAX_REVERSE_SPEED = 0.10D;
-    private static final double ACCELERATION = 0.022D;
+    private static final double ACCELERATION = 0.052D;
     private static final double BRAKE = 0.06D;
     private static final double COAST_FRICTION = 0.985D;
     private static final float MAX_TURN_PER_TICK = 4.5F;
